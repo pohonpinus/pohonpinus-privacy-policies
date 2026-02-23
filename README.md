@@ -10,7 +10,7 @@ Daftar aplikasi yang telah kami rilis beserta tautan ke detail kebijakan privasi
 
 | Nama Aplikasi | Kategori | Tautan Kebijakan Privasi | Status |
 | :--- | :--- | :--- | :--- |
-| **Kisah-Kisah Nabi** | Edukasi / Buku | [Baca Kebijakan Privasi](./kisah-kisah-nabi/privacy-policy.html) | Aktif |
+| **Kisah-Kisah Nabi** | Edukasi / Buku | [Baca Kebijakan Privasi](./kisahkisahnabi/privacy-policy.html) | Aktif |
 
 
 *(Catatan: Klik tautan di atas untuk membaca dokumen kebijakan privasi spesifik dari masing-masing aplikasi).*
